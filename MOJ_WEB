@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Prvé nahranie stránky"
+git branch -M main
+git remote add origin https://github.com/tvoje_meno/moja-stranka.git
+git push -u origin main
